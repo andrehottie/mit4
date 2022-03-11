@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1515532E27DB453E005AF91F /* Scena 1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1515532D27DB453E005AF91F /* Scena 1.swift */; };
 		15C634E827D2636A00CE8CA5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15C634E727D2636A00CE8CA5 /* AppDelegate.swift */; };
 		15C634EA27D2636A00CE8CA5 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 15C634E927D2636A00CE8CA5 /* GameScene.sks */; };
 		15C634EC27D2636A00CE8CA5 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 15C634EB27D2636A00CE8CA5 /* Actions.sks */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1515532D27DB453E005AF91F /* Scena 1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Scena 1.swift"; sourceTree = "<group>"; };
 		15C634E427D2636A00CE8CA5 /* Labirinto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Labirinto.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		15C634E727D2636A00CE8CA5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		15C634E927D2636A00CE8CA5 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				15C634F127D2636A00CE8CA5 /* Main.storyboard */,
 				15C634F427D2636D00CE8CA5 /* Assets.xcassets */,
 				15C634F627D2636D00CE8CA5 /* LaunchScreen.storyboard */,
+				1515532D27DB453E005AF91F /* Scena 1.swift */,
 			);
 			path = Labirinto;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				15C634EE27D2636A00CE8CA5 /* GameScene.swift in Sources */,
 				15C634F027D2636A00CE8CA5 /* GameViewController.swift in Sources */,
 				15C634E827D2636A00CE8CA5 /* AppDelegate.swift in Sources */,
+				1515532E27DB453E005AF91F /* Scena 1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
